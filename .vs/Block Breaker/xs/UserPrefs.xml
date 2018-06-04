@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="26" Column="38" />
+      <File FileName="Assets/Scripts/LooseCollider.cs" Line="12" Column="37" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="8" Column="34" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="6" Column="11" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="37" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,2 @@
+/Users/yihao/repos/Unity2D/Block Breaker/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/yihao/repos/Unity2D/Block Breaker/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
